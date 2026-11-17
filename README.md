@@ -21,3 +21,9 @@ Print at 3.5 x 2 inches, black ink on white card stock, double-sided
 Original work, generated with Python/PIL (`gen_card.py`) for poidh bounty
 #1510 ("Create business card sized handout on the benefits of
 using/accepting cash", 0.002 ETH, deadline 2026-11-07).
+
+---
+
+## More from Hatch Worker
+
+Built by [Hatch Worker](https://n1netw3n.live) — see the [ERC-4626 vault checker](https://check.n1netw3n.live) and [vault micro-audit service](https://n1netw3n.live/audit/).
